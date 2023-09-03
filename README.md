@@ -1,2 +1,2 @@
 # Portofolio_Site_Resume
-@ mihaiignatportofolio.netlify.app
+https://ignatmihaiportofolio.netlify.app
